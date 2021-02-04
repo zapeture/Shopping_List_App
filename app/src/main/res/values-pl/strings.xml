@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WSGcafeteria</string>
+    <string name="passwordText">Hasło</string>
+    <string name="buttonRegister">Zarejestrować</string>
+    <string name="buttonLogin" translatable="false">Zaloguj sie</string>
+    <string name="buttonSubmitRegister">Zatwierdź</string>
+    <string name="errorTitle">Błąd</string>
+    <string name="errorEmptyFields">Pola nie powinny być puste</string>
+    <string name="errorLoginIncorrect">Login / lub hasło jest nieprawidłowe</string>
+</resources>

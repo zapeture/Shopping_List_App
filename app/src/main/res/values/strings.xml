@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WSGcafeteria</string>
+    <string name="loginText" translatable="false">Login</string>
+    <string name="passwordText">Password</string>
+    <string name="buttonRegister">Register</string>
+    <string name="buttonLogin">Login</string>
+    <string name="emailText" translatable="false">Email</string>
+    <string name="buttonSubmitRegister">Submit</string>
+    <string name="errorTitle">Error</string>
+    <string name="errorEmptyFields">The fields should not be Empty</string>
+    <string name="errorLoginIncorrect">Login/or password is not correct</string>
+    <string name="loginUsername" translatable="false">Username</string>
+    <string name="addProduct" translatable="false">Add</string>
+</resources>
